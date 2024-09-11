@@ -2,10 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 主页
 heroImage: /logo.png
 heroText: TaoGe's Blog
 heroFullScreen: true
+# bgImage: https://images.pexels.com/photos/25975000/pexels-photo-25975000.jpeg
 tagline: 老骥伏枥，志在千里！
 projects:
   - icon: project
@@ -38,11 +39,6 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+footer: 别让二次元的风吹乱了你帅气的头发🤭
 ---
 
-这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。

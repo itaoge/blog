@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/blog/",
 
   lang: "zh-CN",
-  title: "TaoGee",
+  title: "涛哥的博客",
   description: "涛哥的个人博客，分享技术、生活、读书、游戏、见闻等。",
 
   theme,
