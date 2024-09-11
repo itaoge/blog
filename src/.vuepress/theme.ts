@@ -4,18 +4,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://itaoge.github.io",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Tao Ge",
+    url: "https://itaoge.github.io/blog",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.png",
-
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  // 配置仓库地址
+  repo: "itaoge/blog",
 
   docsDir: "src",
 
@@ -26,12 +26,12 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "别让二次元的风吹乱了你帅气的头发🤭",
   displayFooter: true,
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    description: "中年码农一名",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",
