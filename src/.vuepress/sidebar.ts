@@ -38,6 +38,7 @@ export default sidebar({
       children: "structure",
     },
     "/others/",
+    "favorites",
     "intro",
   ],
   // "/": "structure"
