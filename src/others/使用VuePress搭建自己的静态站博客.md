@@ -2,7 +2,7 @@
 lang: zh-CN
 title: 使用VuePress+GitHub Pages搭建自己的静态博客站
 category:
-  - 其他
+  - 其他知识
 date: 2024-09-12
 tags:
   - VuePress
