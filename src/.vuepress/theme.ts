@@ -12,6 +12,7 @@ export default hopeTheme({
   },
 
   iconAssets: "fontawesome-with-brands",
+  // iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
 
   logo: "/logo.png",
   // 配置仓库地址
