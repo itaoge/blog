@@ -126,6 +126,8 @@ export default hopeTheme({
       imgSize: true,
       include: true,
       mark: true,
+      // 启用思维导图插件
+      markmap: true,
       plantuml: true,
       spoiler: true,
       stylize: [
